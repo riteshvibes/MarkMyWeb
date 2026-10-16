@@ -1,0 +1,6 @@
+{
+  "name": "DOPPELGÄNGER",
+  "description": "See yourself the way the internet sees you. Enterprise-grade digital identity graph, explainable ML risk engine, inference detection, and defensive attack path simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
